@@ -1,4 +1,4 @@
-About
+About [![Build Status](https://travis-ci.org/biniek-io/classify-triangle.svg?branch=master)](https://travis-ci.org/biniek-io/classify-triangle)
 ================
 
 `classify-triangle` is a library to recognize type of triangle.
